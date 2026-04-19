@@ -33,3 +33,5 @@ It fetches real-time weather data including **temperature, humidity, wind speed,
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
+
+// updated by Sripathi
